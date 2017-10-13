@@ -1,4 +1,8 @@
-
+/**
+ * Clase MilitarMain que es el principal
+ * @author Andres Urizar
+ *
+ */
 public class MilitarMain {
 
 	public static void main(String[] args) {
