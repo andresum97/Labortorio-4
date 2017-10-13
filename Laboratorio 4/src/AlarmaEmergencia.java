@@ -10,8 +10,7 @@ public class AlarmaEmergencia extends Alarma
 		super.m2();
 	}
 	 
-	public String toString() {
-		m1();
-		return super.toString();
+	public String toString() { 
+		return "emergencia "+super.toString();
 	}
 }
